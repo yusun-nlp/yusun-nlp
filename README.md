@@ -1,12 +1,12 @@
 <h2 align="center">👋 Hi! I'm Yu Sun.</h2>
 <p align="center">
-  <a href="https://http://juliasun623.github.io/">Blog</a>
+  <a href="https://juliasun623.github.io/">Blog</a>
 </p>
 
 
 - 🔭 I’m currently studying at **Fudan University**
 - 🌱 I’m currently learning **NLP and Algorithm**
-- 📫 How to reach me: [@Julia]("mailto:cnsdytsy@gmail.com") on Gmail
+- 📫 How to reach me: [@Julia](mailto:cnsdytsy@gmail.com) on Gmail
 
 -------
 

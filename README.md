@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently studying at **Fudan University**
-- 🌱 I’m currently learning **NLP**, especially **Pretraining**
+- 🌱 I’m currently learning **NLP**, especially **Relation Extraction**
 - 📫 How to reach me: [@Julia](mailto:cnsdytsy@gmail.com) on Gmail
 
 -------

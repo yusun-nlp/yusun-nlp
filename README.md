@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently studying at **Fudan University**
-- 🌱 I’m currently learning **NLP**, especially **Evaluation**.
+- 🌱 My primary research focuses on the **Evaluation** of Large Language Models (LLMs). Previously, I worked in the area of Information Extraction.
 - 📫 How to reach me: [Gmail](mailto:yusun.nlp@gmail.com)
 
 -------
 
-[![Julia's github stats](https://github-readme-stats.vercel.app/api?username=yusun-nlp&show_icons=true&theme=tokyonight)](https://github.com/yusun-nlp)
+[![yusun-nlp's github stats](https://github-readme-stats.vercel.app/api?username=yusun-nlp&show_icons=true&theme=tokyonight)](https://github.com/yusun-nlp)

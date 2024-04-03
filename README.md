@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi! I'm Yu Sun.</h2>
 <p align="center">
-  <a href="https://yusun-nlp.github.io/">Blog</a>
+  <a href="https://yusun-nlp.github.io/">About me.</a>
 </p>
 
 

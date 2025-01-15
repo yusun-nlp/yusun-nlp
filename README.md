@@ -4,8 +4,8 @@
 </p>
 
 
-- 🔭 I’m currently studying at **Fudan University**
-- 🌱 My primary research focuses on the **Evaluation** of Large Language Models (LLMs). Previously, I worked in the area of Information Extraction.
+- 🔭 I acquired my Master Degree at **Fudan University** advised by Xipeng Qiu and Xuanjing Huang, and acquired my Bachelor Degree in Computer Science at **Fudan University**.
+- 🌱 My primary research focuses on the **reasoning** ability of Large Language Models (LLMs) in the pre-training stage. Previously, I worked in **Evaluation** of LLM with an emphasis on the models’ fundamental language ability, and in the area of **Information Extraction**.
 - 📫 How to reach me: [Gmail](mailto:yusun.nlp@gmail.com)
 
 -------
